@@ -1,2 +1,2 @@
-# mi-repositorio
+# mirepositorio
 repositorio para aplicaciones moviles
